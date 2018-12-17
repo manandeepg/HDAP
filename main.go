@@ -10,5 +10,5 @@ func adder(a, b int) int {
 }
 
 func main() {
-	fmt.Println(adder(20, 11))
+	fmt.Println(adder(22, 11))
 }
